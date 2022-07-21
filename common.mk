@@ -364,6 +364,7 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget \
     OPlusCarrierConfigResCommon \
     DeviceExtrasResCommon \
+    DeviceExtrasResTarget \
     OPlusFrameworksResCommon \
     OPlusNfcResCommon \
     OPlusSettingsResCommon \
